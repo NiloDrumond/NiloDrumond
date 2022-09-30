@@ -1,21 +1,39 @@
 <!--
-**ecosse3/ecosse3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NiloDrumond/NiloDrumond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h1 align="center">🚧 Under construction 🚧</h1>
 <!--<p align="center"><img src="kvskyblue.png" /></p>-->
-<h1 align="center">Hi 👋, I'm Nilo</h1>
-<h3 align="center">A passionate Developer from Brazil 🇧🇷</h3>
-
-<!--<p align="center">
-<a href="https://linkedin.com/in/lukasz-kurpiewski" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lukasz-kurpiewski" height="30" width="30" /></a>
-<a href="https://instagram.com/kvsky_travel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kvsky_travel" height="30" width="30" /></a>
+<h1 align="center"> Hi! I'm Nilo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Developer;I'm+also+studying+Computer+Science" /></a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ecosse3&style=flat-square&color=2591F6" alt="ecosse3" /> </p>
--->
-- 🔭 &nbsp; I’m currently working on [**neovim dotfiles**](https://github.com/NiloDrumond/nvim) and couple of not open-source business projects
-- 🌱 &nbsp; I’m currently learning **Rust** and **Nest.js**
-- 💬 &nbsp; Ask me about **React.js**, **Typescript**, **(Neo)Vim** and **Linux**
+<p>I'm a software developer from Brazil that loves anything code related. I have used dozens of programming languages and plan to learn more. My favorites are Rust and Typescript. If you wanna know more about me, check out one of the following links:<p>
+
+<p align ="center">
+<!--
+  <a  href="https://ifeanyi-nneji.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"/>
+  </a>
+  -->
+
+  <a href="mailto:nilobdrumond@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
+  </a>
+   <a href="https://linkedin.com/in/nilo-drumond-347bb01a5" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>   
+ 
+  
+ </p>
+
+&nbsp;
+
+<h2>About me</h2>
+
+- 🏆 &nbsp; Full Stack JS/TS developer
+- 🌱 &nbsp; Rust enthusiast
+- 💻 &nbsp; Setup: Arch + i3wm + Neovim
+- 💼 &nbsp; Working at [Loomi](https://github.com/loomi)
 - 📫 &nbsp; Reach me at **nilobdrumond@gmail.com**
 
 &nbsp;
