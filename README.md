@@ -32,7 +32,7 @@
 
 - 🏆 &nbsp; Full Stack JS/TS developer
 - 🌱 &nbsp; Rust enthusiast
-- 💻 &nbsp; Setup: Arch + i3wm + Neovim
+- 💻 &nbsp; Setup: Arch + i3wm + Neovim + TMUX
 - 💼 &nbsp; Working at [Loomi](https://github.com/loomi)
 - 📫 &nbsp; Reach me at **nilobdrumond@gmail.com**
 
