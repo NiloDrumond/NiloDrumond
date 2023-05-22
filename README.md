@@ -33,7 +33,7 @@
 - 🏆 &nbsp; Full Stack JS/TS developer
 - 🌱 &nbsp; Rust enthusiast
 - 💻 &nbsp; Setup: Arch + i3wm + Neovim + TMUX
-- 💼 &nbsp; Working at [Loomi](https://github.com/loomi)
+- 💼 &nbsp; Working at [Mentions](https://github.com/MentionsApp)
 - 📫 &nbsp; Reach me at **nilobdrumond@gmail.com**
 
 &nbsp;
