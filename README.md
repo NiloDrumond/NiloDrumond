@@ -38,6 +38,8 @@
 
 &nbsp;
 
+
+<!--
 <p align="center">
   <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
@@ -45,5 +47,5 @@
   <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/react%20native%20-%231CAACE.svg?&style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
-  <!--<img src="https://img.shields.io/badge/manjaro%20-%2335BF5C.svg?&style=for-the-badge&logo=manjaro&logoColor=white" />-->
 </p>
+-->
