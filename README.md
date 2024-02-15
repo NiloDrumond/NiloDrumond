@@ -35,8 +35,8 @@
 
 - 🏆 &nbsp; Full Stack JS/TS developer
 - 🌱 &nbsp; Rust enthusiast
-- 💻 &nbsp; Setup: Arch + i3wm + Neovim + TMUX
-- 💼 &nbsp; Working at [Mentions](https://github.com/MentionsApp)
+- 💻 &nbsp; Setup: Arch + Hyprland + Neovim
+- 💼 &nbsp; Working at [NuVidio](https://github.com/NuVidio)
 - 📫 &nbsp; Reach me at **nilobdrumond@gmail.com**
 
 &nbsp;
