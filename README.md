@@ -10,7 +10,7 @@
 </p>
 -->
 
-<p>I'm a software developer from Brazil who loves anything code-related. I have used dozens of programming languages and always enjoy learning more. My favorites are Rust and Typescript. If you want to know more about me, check out one of the following links:<p>
+<p>I'm a software developer from Brazil who loves anything code-related. I have used dozens of programming languages, used dozens of frameworks, and always enjoy learning more. If you want to know more about me, check out one of the following links:<p>
 
 <p align ="center">
 <!--
